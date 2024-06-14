@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+.list-unstyled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#main-navigation li {
+  padding: 0 10px;
+  cursor: pointer;
+}
